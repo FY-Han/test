@@ -7,3 +7,5 @@ nothing new
 another new
 
 this is not new
+
+but this is new
